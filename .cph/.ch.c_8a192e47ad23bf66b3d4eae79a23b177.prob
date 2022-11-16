@@ -1,0 +1,1 @@
+{"name":"Local: ch","url":"/home/medomeckz/Belajar/C/ch.c","tests":[{"id":1668558850468,"input":"BOGOR","output":"5"},{"id":1668558890033,"input":"Albarra Zikrillah","output":"17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/medomeckz/Belajar/C/ch.c","group":"local","local":true}
